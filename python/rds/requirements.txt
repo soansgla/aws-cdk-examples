@@ -1,3 +1,4 @@
 aws-cdk.core
 aws-cdk.aws-ec2
 aws-cdk.aws-rds
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
