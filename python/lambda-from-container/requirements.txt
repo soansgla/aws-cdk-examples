@@ -12,3 +12,4 @@ cattrs>=1.1.1
 aws-cdk.core>=1.76.0
 aws-cdk.aws_lambda>=1.76.0
 aws-cdk.aws_ecr>=1.76.0
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
