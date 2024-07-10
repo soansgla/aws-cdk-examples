@@ -2,3 +2,4 @@ aws-cdk.aws-kinesis
 aws-cdk.aws-lambda
 aws-cdk-aws-lambda-event-sources
 aws-cdk.core
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
