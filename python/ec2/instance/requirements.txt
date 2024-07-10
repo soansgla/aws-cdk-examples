@@ -2,3 +2,4 @@ aws-cdk.core
 aws-cdk.aws_ec2
 aws-cdk.aws_iam
 aws-cdk.aws_s3_assets
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
